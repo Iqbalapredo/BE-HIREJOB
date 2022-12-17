@@ -109,9 +109,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Hire Job`](https://github.com/Iqbalapredo/BE-HireJob)
+:rocket: [`Backend Hire Job`](https://github.com/Iqbalapredo/BE-HIREJOB)
 
-:rocket: [`Frontend Hire Job`](https://github.com/Iqbalapredo/FE-HireJobs)
+:rocket: [`Frontend Hire Job`](https://github.com/Iqbalapredo/FE-HIREJOB)
 
 :rocket: [`Demo Hire Job`](/)
 
