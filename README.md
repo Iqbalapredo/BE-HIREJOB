@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend Hire Job</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/BE-HireJob"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Iqbalapredo/BE-HIREJOB"><strong>Explore the docs »</strong></a>
     <br />
     <a href="/">View Demo</a>
     ·
@@ -63,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone https://github.com/Iqbalapredo/BE-HireJob.git
+git clone https://github.com/Iqbalapredo/BE-HIREJOB.git
 ```
 - Go To Folder Repo
 ```
@@ -120,4 +120,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-HireJob/](https://github.com/Iqbalapredo/BE-HireJob)
+Project Link: [https://github.com/Iqbalapredo/BE-HIREJOB/](https://github.com/Iqbalapredo/BE-HIREJOB)
